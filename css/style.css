@@ -1,0 +1,36 @@
+h1 {
+    color      : #396bc7;
+    text-align :    center;
+
+}
+
+
+img {
+    float   : left;
+    padding : 20px;
+}
+
+h2  {  
+    text-align :    center;
+    color      : #396bc7;
+}
+
+p   {
+    text-align :    center;
+}
+
+p {
+    font-size  :   13px;
+    text-align : center;
+}
+
+h3 {
+    font-style :  underline;
+    text-align :     center;
+    
+}
+ul {
+    font-size  :      12px;
+    color      : #396bc7;
+    
+}
