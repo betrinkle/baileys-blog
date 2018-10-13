@@ -1,21 +1,22 @@
 body {
     background-color : rgb(250, 250, 250);
 }
-
 h1 {
-    color : rgb(100, 100, 100);
-}
-
-h2 {
-    color : rgb(130, 130, 130);
+    text-align  : center;
+    padding-top : 20px;
+    color       : rgb(100, 100, 100);
 }
 p {
-    margin    :  0 auto;
-    max-width :   300px;
-    padding   :    12px;
+    color : rgb(130, 130, 130);
+    size  : 8px;
 
-    
-    color     :   rgb(129, 129, 129);
+}
+div.entry {
+    margin     : 0 auto;
+    text-align : center;
+    max-width  : 300px;
+    padding    : 12px;
+    color      : rgb(129, 129, 129);
 }
 h3 {
     size  : 16px;
